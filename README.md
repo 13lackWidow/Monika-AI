@@ -20,4 +20,4 @@ This is an ongoing project of mine to create a functional self-hosted smart-home
 
 8.) Available functions based on who is in what room, who is speaking, what they are looking at, and data of the room (temp, moisture, food intake and how much food is in storage.
 
-9.) No personal data will be stored in a cloud or in github. Everything will be custom encrypted on a the server.
+9.) No personal data will be stored in a cloud or in github. Everything will be custom encrypted on the server.
